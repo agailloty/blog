@@ -101,8 +101,8 @@ df['A'].hist(bins = 30)
 
 
 
-![png]({{/blog/notebooks/output_5_1.png}})
-
+![png]({{blog/_posts/notebooks/output_10_1.png
+      output_5_1.png}})
 
 
 ```python
@@ -117,7 +117,8 @@ df['A'].plot(kind = 'hist', bins = 20)
 
 
 
-![png]({{/blog/notebooks/output_6_1.png}})
+![png]({{/blog/_posts/notebooks/output_10_1.png
+      /output_6_1.png}})
 
 
 
