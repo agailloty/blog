@@ -7,10 +7,10 @@
 
 # Site settings
 title:            Analytics
-subtitle:         Un blog sur l'Econométrie et la Data Science
+subtitle:         Un blog sur l'EconomÃ©trie et la Data Science
 description:      This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
 keywords:         demo theme example github jekyll features
-language:         "fr" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
+language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "/blog" # the subpath of your site, e.g. /blog
 url:              "https://agailloty.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
