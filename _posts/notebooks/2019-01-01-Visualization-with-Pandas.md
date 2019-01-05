@@ -1,5 +1,6 @@
 ---
-layout : posts
+layout : post
+author : agailloty
 title : "Data visualization with Pandas"
 ---
 

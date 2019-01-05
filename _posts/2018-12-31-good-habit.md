@@ -1,18 +1,15 @@
 ---
 layout:            post
 title:             "Une petite introduction aux bonnes manières"
-menutitle:         "Content styles"
 category:          Data Science
 author:            agailloty
 tags:              Python
-excerpt_separator: "<!--more-->"
 ---
 # Good Data scientist habit
 
 I am writing this notebook because I find it important to reference myself when using the Python programming language for data science task. The goal here is to prepare a kind of `template` which I will use when dealing with some problems in future. 
 
 I've so far learnt a lot about Data Science and Python but I want to make use of these skills in the best way I could imagine. The idea of writing this notebook comes as I read great Kernels on Kaggle. I want to extract knowledge from these kernels and keep them for myself.
-<!--more-->
 
 ```python
 # If we want to deal with the environment we can import the os module
