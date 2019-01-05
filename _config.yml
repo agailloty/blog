@@ -12,6 +12,8 @@ description:      This is the jekyllTheme example blog. It only exists to demons
 keywords:         demo theme example github jekyll features
 language:         "fr" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
+encoding: UTF-8
+
 baseurl:          "/blog" # the subpath of your site, e.g. /blog
 url:              "https://agailloty.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
