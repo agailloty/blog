@@ -1,7 +1,10 @@
 ---
-layout: "post"
-title : "Good Habit for Data Scientist"
-author : Axel-Cleris Gailloty
+layout:            post
+title:             "Une petite introduction aux bonnes manières"
+menutitle:         "Content styles"
+category:          Data Science
+author:            agailloty
+tags:              Python
 excerpt_separator: "<!--more-->"
 ---
 # Good Data scientist habit
