@@ -101,7 +101,7 @@ df['A'].hist(bins = 30)
 
 
 
-![png](output_5_1.png)
+![png]({{/blog/notebooks/output_5_1.png}})
 
 
 
@@ -117,7 +117,7 @@ df['A'].plot(kind = 'hist', bins = 20)
 
 
 
-![png](output_6_1.png)
+![png]({{/blog/notebooks/output_6_1.png}})
 
 
 
@@ -134,7 +134,7 @@ df['A'].plot.hist(bins = 30)
 
 
 
-![png](output_7_1.png)
+![png]({{/blog/notebook/soutput_7_1.png}})
 
 
 
@@ -156,7 +156,7 @@ df2.plot.area(alpha = 0.5)
 
 
 
-![png](output_8_2.png)
+![png]({{/blog/notebook/soutput_8_2.png}})
 
 
 
@@ -172,7 +172,7 @@ df2.plot.bar(figsize = (12,6))
 
 
 
-![png](output_9_1.png)
+![png]({{/blog/notebooks/output_9_1.png}})
 
 
 
@@ -188,7 +188,7 @@ df2.plot.bar(figsize = (12,6), stacked = True)
 
 
 
-![png](output_10_1.png)
+![png]({{/blog/notebooks/output_10_1.png}})
 
 
 
@@ -204,7 +204,7 @@ df2.plot.area(figsize = (12,6), alpha = 0.5)
 
 
 
-![png](output_11_1.png)
+![png]({{/blog/notebooks/output_11_1.png}})
 
 
 
@@ -294,7 +294,7 @@ df.plot.scatter(x = 'A', y = 'D', figsize = (12,6))
 
 
 
-![png](output_13_1.png)
+![png]({{/blog/notebooks/output_13_1.png}})
 
 
 
@@ -310,7 +310,7 @@ df.plot.scatter(x = 'A', y = 'D', figsize = (12,6), c = 'B', cmap = 'coolwarm')
 
 
 
-![png](output_14_1.png)
+![png]({{/blog/notebooks/output_14_1.png}})
 
 
 
@@ -326,7 +326,7 @@ df2.plot.box(figsize = (12,4))
 
 
 
-![png](output_15_1.png)
+![png]({{/blog/notebooks/output_15_1.png}})
 
 
 
@@ -409,7 +409,7 @@ rd.plot.hexbin('a','b', gridsize = 30, figsize = (12,6))
 
 
 
-![png](output_18_1.png)
+![png]({{/blog/notebooks/output_18_1.png}})
 
 
 
@@ -425,5 +425,5 @@ rd.plot.density(figsize = (12,5))
 
 
 
-![png](output_19_1.png)
+![png]({{/blog/notebooks/output_19_1.png}})
 
