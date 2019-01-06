@@ -2,6 +2,7 @@
 layout : post
 author : agailloty
 title : "Data visualization with Pandas"
+category : Python
 ---
 
 ```python
