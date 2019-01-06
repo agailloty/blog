@@ -1,9 +1,7 @@
 ---
-layout:            post
-title:             "Une petite introduction aux bonnes manières"
-category:          Data Science
-author:            agailloty
-tags:              Python
+layout: post
+author: agailloty
+category: Python
 ---
 # Good Data scientist habit
 
