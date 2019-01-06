@@ -101,8 +101,7 @@ df['A'].hist(bins = 30)
 
 
 
-![png]({{blog/_posts/notebooks/output_10_1.png
-      output_5_1.png}})
+![png]({{/_posts/notebooks/output_10_1.png}})
 
 
 ```python
@@ -117,8 +116,7 @@ df['A'].plot(kind = 'hist', bins = 20)
 
 
 
-![png]({{/blog/_posts/notebooks/output_10_1.png
-      /output_6_1.png}})
+![png]({{/_posts/notebooks/output_10_1.png}})
 
 
 
@@ -135,7 +133,7 @@ df['A'].plot.hist(bins = 30)
 
 
 
-![png]({{/blog/notebook/soutput_7_1.png}})
+![png]({{/_posts//notebook/soutput_7_1.png}})
 
 
 
@@ -157,7 +155,7 @@ df2.plot.area(alpha = 0.5)
 
 
 
-![png]({{/blog/notebook/soutput_8_2.png}})
+![png]({{/_posts/blog/notebook/soutput_8_2.png}})
 
 
 
