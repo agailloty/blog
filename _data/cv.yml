@@ -1,14 +1,13 @@
-jdecent:
+agailloty:
     profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."
     skills:
-        - "C#, ASP.NET MVC"
-        - "XAML, WPF, LINQ, Silverlight"
-        - "JavaScript, jQuery, HTML5, CSS, LESS"
-        - "Web Services, Active Directory, Windows 10, Windows Phone Apps"
+        - "Econométrie & Statistiques"
+        - "Analyse et traitement des données multidimensionnelles"
+        - "Programmation en R et Python"
     education:
-        - time:             "2009 - 2011"
-          location:         "University of Someplace"
-          description:      "BSc in Applied Computer Science"
+        - time:             "2016 - 2018"
+          location:         "Université d'Angers"
+          description:      "Licence en Economie et Gestion"
     employment:
         - time:             "02.2015 - 11.2017"
           location:         "Stuttgart"
