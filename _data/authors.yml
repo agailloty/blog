@@ -1,4 +1,4 @@
-agailloty: 
+default:
  initial: agailloty                                       # used for author lookup in posts and for first two characters in the about page back button
   name:  "Axel-Cleris Gailloty"                               # used to display author name
   cover:        /assets/img/mycov.jpg        # OPTIONAL: defines location of cover image in about page
@@ -23,13 +23,13 @@ agailloty:
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-jdecent:
-  initial:      jdecent
-  name:         "Jekyll Decent"       
-  cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/johndoe.jpg  
+agailloty:
+  initial:      agailloty
+  name:         "Axel-Cleris Gailloty"       
+  cover:         /assets/img/mycov.jpg   
+  picture:      /assets/img/pic.jpg
   bio:          This is my bio!
-  location:     Germany
+  location:     France
   email:        "-"   
   twitter:      "-"    
   twitch:       "-"
