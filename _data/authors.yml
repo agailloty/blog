@@ -1,6 +1,6 @@
 agailloty: 
  initial: agailloty                                       # used for author lookup in posts and for first two characters in the about page back button
-  name: "Axel-Cleris Gailloty"                               # used to display author name
+  name:  "Axel-Cleris Gailloty"                               # used to display author name
   cover:        /assets/img/mycov.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/img/pic.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
@@ -8,7 +8,7 @@ agailloty:
   website:            # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
+  linkedin: cgailloty                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
   github: agailloty                                                    # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
