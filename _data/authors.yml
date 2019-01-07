@@ -1,5 +1,4 @@
 default: agailloty                                                   # Fallback if nothing is specified
-  
   initial:      agailloty
   name:         "Axel-Cleris Gailloty"       
   cover:        /assets/mountain-alternative-cover.jpg  
