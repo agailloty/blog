@@ -1,9 +1,9 @@
 agailloty: 
- initial:      agailloty
-  name:         "Axel-Cleris Gailloty"       
-  cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/img/pic.jpg  
-  bio:          Je suis Axel-Cleris
-  location:     France
-  email:        "mr.clerisaxel@hotmail.fr"   
- linkedin: cgailloty                                                  # OPTIONAL: used in the about page
+  initial:      agailloty
+  name: "Axel-Cleris Gailloty"       
+  cover: /assets/mountain-alternative-cover.jpg  
+  picture: /assets/img/pic.jpg  
+  bio:  Je suis Axel-Cleris
+  location: France
+  email: "mr.clerisaxel@hotmail.fr"   
+  linkedin: cgailloty
