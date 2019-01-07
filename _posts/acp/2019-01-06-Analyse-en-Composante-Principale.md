@@ -845,7 +845,7 @@ display_scree_plot(ACP)
 ```
 
 
-![png](output_27_0.png)
+![png](/blog/_posts/acp/output_27_0.png)
 
 
 Nous voyons que globalement la première dimension ou variable synthétique explique environ 30% de l'information. La deuxième dimension quant à elle explique environ 15%. Ces deux dimensions combinées nous permettent d'expliquer sensiblement 45% de la variabilité entre les pays. 
@@ -872,6 +872,6 @@ display_circles(composantes, nbre_composantes, ACP, axis_ranks= [(0,1),(1,2)], l
 X_projected = ACP.transform(data_scaled)
 display_factorial_planes(X_projected, nbre_composantes, ACP, [(0,1),(2,3)])
 ```
-<figure><img src="{{ /assets/posts/notebook/soutput_31_1.png}}" /></figure>
+<figure><img src="{{blog/assets/posts/notebook/soutput_31_1.png}}" /></figure>
 
 
