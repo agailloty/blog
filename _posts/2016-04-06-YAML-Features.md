@@ -5,7 +5,7 @@ menutitle:         "YAML Features"
 date:              2016-04-06 00:40:00 +0300
 tags:              Jekyll YAML Features Explained
 category:          Features
-author:            jwillmer
+author:            agailloty
 cover:             /assets/mountain-alternative-cover.jpg
 published:         true
 redirect_from:     "/YAML-Features-Redirect/"
