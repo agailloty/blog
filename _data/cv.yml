@@ -1,13 +1,13 @@
-agailloty :
+ï»¿agailloty :
     profile: "Vous trouverez sur cette page mon CV"
     skills:
-        - "Construction de modèle économétrique"
+        - "Construction de modÃ¨le Ã©conomÃ©trique"
         - "Statistiques multidimensionnelles"
         - "Utilisation des algorithmes de Machine Learning"
-        - "Analyse financière"
+        - "Analyse financiÃ¨re"
     education:
         - time:             "2016 - 2018"
-          location:         "Université d'Angers"
+          location:         "UniversitÃ© d'Angers"
           description:      "Licence en Economie et Gestion"
     employment:
         - time:             "02.2015 - 11.2017"
