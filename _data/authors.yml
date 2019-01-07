@@ -31,14 +31,4 @@ jdecent:
   bio:          Je suis Axel-Cleris
   location:     France
   email:        "mr.clerisaxel@hotmail.fr"   
-  twitter:      "-"    
-  twitch:       "-"
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
-  website:      "http://jwillmer.de/cv" 
-  twitter:      jenswillmer
-  github:       jwillmer
+ linkedin: cgailloty                                                  # OPTIONAL: used in the about page
