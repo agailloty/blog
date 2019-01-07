@@ -859,14 +859,11 @@ nbre_composantes = ACP.n_components
 
 ```python
 display_circles(composantes, nbre_composantes, ACP, axis_ranks= [(0,1),(1,2)], labels= np.array(data_acp.columns))
-```
-
-
-![png](/assets/posts/output_30_0.png)
+```<figure> <img src="{{ /assets/posts/notebook/soutput_30_1.png}}" />
+</figure>
 
 
 
-![png](/assets/posts/output_30_1.png)
 
 
 
@@ -875,11 +872,6 @@ display_circles(composantes, nbre_composantes, ACP, axis_ranks= [(0,1),(1,2)], l
 X_projected = ACP.transform(data_scaled)
 display_factorial_planes(X_projected, nbre_composantes, ACP, [(0,1),(2,3)])
 ```
+<figure><img src="{{ /assets/posts/notebook/soutput_31_1.png}}" /></figure>
 
-
-![png](/assets/posts/output_31_0.png)
-
-
-
-![png](/assets/posts/output_31_1.png)
 
