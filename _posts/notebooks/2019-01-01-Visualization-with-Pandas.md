@@ -115,9 +115,11 @@ df['A'].plot(kind = 'hist', bins = 20)
     <matplotlib.axes._subplots.AxesSubplot at 0x1e875c96198>
 
 
+<figure>
+   <img src="{{ /_posts/notebooks/output_10_1.png}}" />
+   <figcaption>Histogramme.</figcaption>
+</figure>
 
-
-![png]({{/_posts/notebooks/output_10_1.png}})
 
 
 
@@ -132,9 +134,11 @@ df['A'].plot.hist(bins = 30)
     <matplotlib.axes._subplots.AxesSubplot at 0x1e875f73550>
 
 
+<figure>
+   <img src="{{ /_posts//notebook/soutput_7_1.png}}" />
+   <figcaption>A nice mountain.</figcaption>
+</figure>
 
-
-![png]({{/_posts//notebook/soutput_7_1.png}})
 
 
 
@@ -154,9 +158,10 @@ df2.plot.area(alpha = 0.5)
 
     <Figure size 600x400 with 0 Axes>
 
-
-
-![png]({{/_posts/blog/notebook/soutput_8_2.png}})
+<figure>
+   <img src="{{ /_posts//notebook/soutput_7_1.png}}" />
+   <figcaption>A nice mountain.</figcaption>
+</figure>
 
 
 
