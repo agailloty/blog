@@ -2,8 +2,8 @@
 layout:    about
 permalink: "/cv"
 author:    agailloty
-keywords:  about person demo example
-title:     Jekyll Decent CV
+keywords:  about me
+title:     CV 
 menutitle: A propos
 weight:    70
 excerpt:   This page contains the curriculum vitae (CV) of the author.
@@ -17,7 +17,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 
 <div class="md-card shadow">
     <div class="title icon-stats-bars">
-        <h2>Skills</h2>
+        <h2>Compétences</h2>
     </div>
     <div class="content">
         <ul>
@@ -43,7 +43,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
     {% endfor %}
 </div>
 
-<h2 class="employment-heading">Employment History</h2>
+<h2 class="employment-heading">Historique</h2>
 
 <div class="timeline-container">
     {% for employment in cv.employment %}
@@ -65,7 +65,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 </div>
 
 
-<h2 class="project-heading">Project History</h2>
+<h2 class="project-heading">Projets réalisés</h2>
 
 {% for project in cv.projects %}
 <div class="md-card shadow project">
