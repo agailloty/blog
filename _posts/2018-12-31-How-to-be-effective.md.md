@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # Good Data scientist habit
 
