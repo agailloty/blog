@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-author: Axel-Cleris Gailloty
+author: agailloty
 category: R
 
 ---
@@ -607,7 +607,7 @@ sns.heatmap(pays.isna(), cbar = False)
 
 
 
-![png](/assets/posts/output_17_1.png)
+![png](blog/assets/posts/output_17_1.png)
 
 
 Nous avons réussi à remplir toutes les valeurs manquantes. La méthode interpolate utilise un algorithme qui impute automatiquement les valeurs manquantes selon leur ressemblance
@@ -845,7 +845,7 @@ display_scree_plot(ACP)
 ```
 
 
-![png](/blog/_posts/acp/output_27_0.png)
+![png](/blog/assets/posts/acp/output_27_0.png)
 
 
 Nous voyons que globalement la première dimension ou variable synthétique explique environ 30% de l'information. La deuxième dimension quant à elle explique environ 15%. Ces deux dimensions combinées nous permettent d'expliquer sensiblement 45% de la variabilité entre les pays. 
