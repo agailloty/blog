@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: agailloty
-title: Les méthodes d'estimation
+title: "Les méthodes d'estimation en économétrie"
 category: Econométrie
 ---
 
