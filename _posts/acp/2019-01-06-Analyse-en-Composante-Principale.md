@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 author: agailloty
-category: R
+title: "L'analyse en composante principale"
+category: Python
 
 ---
 
