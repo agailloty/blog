@@ -1,4 +1,12 @@
-﻿
+﻿---
+layout: post
+author: agailloty
+title: Les méthodes d'estimation
+category: Econométrie
+---
+
+
+
 # Les méthodes d'estimation
 
 Dans cet article, mon but est d'exposer synthétiquement les différentes méthodes d'estimations qu'on les économètres utilisent.
