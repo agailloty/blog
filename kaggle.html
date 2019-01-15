@@ -4,9 +4,16 @@ permalink: "/kaggle"
 author:    agailloty
 keywords:  about person demo example
 title:     my Kaggle kernel
-menutitle: Kaggle
+menutitle: Categories
 weight:    70
 excerpt:   This page contains the curriculum vitae (CV) of the author.
 ---
 
-<iframe src="https://kaggle.com/agailloty"></iframe>
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
