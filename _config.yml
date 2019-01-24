@@ -42,3 +42,11 @@ compress_html:
     envs: [local]
   blanklines: true
   startings: [head, body]
+
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+                layout: post
