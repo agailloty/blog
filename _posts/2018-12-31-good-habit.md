@@ -2,6 +2,7 @@
 layout: post
 author: agailloty
 category: Python
+comments: true
 ---
 # Good Data scientist habit
 
