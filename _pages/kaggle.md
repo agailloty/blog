@@ -3,5 +3,5 @@ layout: page
 author: agailloty
 title: kaggle
 permalink: "/kaggle"
-menutitle: Profil Kaggle
+menutitle: Kaggle
 ---
