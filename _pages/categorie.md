@@ -1,11 +1,10 @@
 ﻿---
-layout: page
-author: agailloty
+layout: default
 menutitle: Categories
 title: Tous les articles
 ---
 
-  {% for category in site.categories %}
+{% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
