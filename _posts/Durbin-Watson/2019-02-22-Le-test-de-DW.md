@@ -53,3 +53,9 @@ Des résidus non correlés sont dits **bruits blancs** et se présentent sous un
 ```python
 
 ```
+
+
+```html
+{% raw %}![]({{ "/_posts/Durbin-Watson/autocorr_1.png#right" | absolute_url }})
+![]({{ "_posts/Durbin-Watson/autocorr_2.png#left" | absolute_url }}){% endraw %}
+```
