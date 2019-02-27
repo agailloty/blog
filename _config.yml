@@ -16,7 +16,7 @@ encoding: UTF-8
 
 baseurl:          "/blog" # the subpath of your site, e.g. /blog
 url:              "https://agailloty.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:        /blog/:categories/:title
+permalink:        /:categories/:title
 cover:            /assets/img/cover.jpg
 disqus_shortname: "cleris_gailloty"
 
