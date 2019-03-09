@@ -1,6 +1,8 @@
 ﻿---
-layout: default
-menutitle: Categories
+ayout: page
+permalink: "https://agailloty.github.io"
+author: agailloty
+menutitle: Site
 title: Tous les articles
 ---
 <body>
