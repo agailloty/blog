@@ -1,6 +1,6 @@
 ﻿---
 ayout: page
-permalink: "https://agailloty.github.io"
+permalink: "/category"
 author: agailloty
 menutitle: Site
 title: Tous les articles
