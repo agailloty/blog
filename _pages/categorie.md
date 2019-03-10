@@ -1,6 +1,5 @@
 ﻿---
 ayout: page
-permalink: "/category"
 author: agailloty
 menutitle: Site
 title: Tous les articles
